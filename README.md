@@ -3,3 +3,4 @@ Actions on the basis of the account according to the risks of information, infor
 ## data
 train with label and test without label
 ## skill
+PCA,Feature Engineering,Feature importance extraction based on classification decision tree,xgboost,bagging and Pearson correlation matrix.
